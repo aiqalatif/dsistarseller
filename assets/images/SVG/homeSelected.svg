@@ -1,0 +1,12 @@
+<svg data-name="Component 3 – 1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="33fqktd7ha" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ffb368"/>
+            <stop offset="1" stop-color="#fc6861"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Rectangle 977" style="fill:none" d="M0 0h24v24H0z"/>
+    <path data-name="Path 12251" d="M12 14.993a3 3 0 0 0-3 3v6h6v-6a3 3 0 0 0-3-3z"/>
+    <path data-name="Path 12252" d="M17 17.993v6h4a3 3 0 0 0 3-3v-9.121a2 2 0 0 0-.563-1.392l-8.5-9.187a4 4 0 0 0-5.65-.223q-.116.107-.223.223L.581 10.477A2 2 0 0 0 0 11.887v9.106a3 3 0 0 0 3 3h4v-6a5 5 0 1 1 10 0z" style="fill:url(#33fqktd7ha)"/>
+    <path data-name="Path 12253" d="M12 14.993a3 3 0 0 0-3 3v6h6v-6a3 3 0 0 0-3-3z" style="fill:url(#33fqktd7ha)"/>
+</svg>

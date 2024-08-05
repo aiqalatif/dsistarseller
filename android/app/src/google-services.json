@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007399282242",
+    "project_id": "sellerapp-4b96d",
+    "storage_bucket": "sellerapp-4b96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007399282242:android:d0e0fcaddae4b78a136fdb",
+        "android_client_info": {
+          "package_name": "wrteam.seller.multivendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97OXtsvqhFAk-1Ln-NbseEo0dxAYu6vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
